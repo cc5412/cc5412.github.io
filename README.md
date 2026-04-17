@@ -16,6 +16,7 @@ Gathered data for 100,000 water temperature observations around LIS during 2024-
 * [View Code](https://github.com/cc5412/STDM_Final-Project/blob/main/STDM_Coursework_NYwatertemp.R)
 
 ### [Urban Analytics (2025), DOCUMENTING ICE](https://github.com/cc5412/Urban-Data_Final-Project)
-Proof of concept mapping Bluesky posts related to ICE activity to show how videos shared on social media can be tied to spatial data and visualized.
+Proof of concept mapping Bluesky posts related to ICE activity to show how videos shared on social media can be tied to spatial data and visualized. Used **Python** and **HTML**.
 * [View Web-enabled Map](https://cc5412.github.io/Urban-Data_Final-Project/Documenting-ICE.html)
-* [View Map Code](https://github.com/cc5412/Urban-Data_Final-Project/blob/main/bluesky_ice_map.html)
+* [View Map HTML](https://github.com/cc5412/Urban-Data_Final-Project/blob/main/bluesky_ice_map.html)
+* [View Project Code](https://github.com/cc5412/Urban-Data_Final-Project/blob/main/bluesky_ice_map.html)
