@@ -8,7 +8,7 @@ Christian is an MSUP candidate at Columbia GSAPP. He holds a BA in Organismic &a
 ### [GIS (2025), Suitable Sites for City-owned Grocery Stores](https://github.com/cc5412/GIS_Final-Project)
 An analysis of food insecurity and grocery affordability in order to ground policy around city-owned grocery stores to the daily lives of the most vulnerable New Yorkers. Used **ArcGIS Pro** and **Python**.
 * [View Report](https://cc5412.github.io/GIS_Final-Project/CCarvajal_GIS-Final%20Project_City-Owned%20Grocery%20Stores.pdf)
-* [View Code](https://cc5412.github.io/GIS_Final-Project/Dataset_python/GIS_Final%20Project.ipynb)
+* [View Code](https://github.com/cc5412/GIS_Final-Project/blob/main/Dataset_python/GIS_Final%20Project.ipynb)
 
 ### [Spatial-Temporal Data Mining (2026), Spatio-Temporal Analysis of Water Temperatures in Long Island Sound: Comparing ARIMA and STARIMA Models](https://github.com/cc5412/STDM_Final-Project)
 Gathered data for 100,000 water temperature observations around LIS during 2024-2025 to train and test forecast models. Used **R**.
