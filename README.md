@@ -10,7 +10,7 @@ An analysis of food insecurity and grocery affordability in order to ground poli
 * [View Report](https://cc5412.github.io/GIS_Final-Project/CCarvajal_GIS-Final%20Project_City-Owned%20Grocery%20Stores.pdf)
 * [View Code](https://github.com/cc5412/GIS_Final-Project)
 
-### [Spatial-Temporal Data Mining (2026), Spatio-Temporal Analysis of Water Temperatures in Long Island Sound: Comparing ARIMA and STARIMA Models]
+### [Spatial-Temporal Data Mining (2026), Spatio-Temporal Analysis of Water Temperatures in Long Island Sound: Comparing ARIMA and STARIMA Models](https://github.com/cc5412/STDM_Final-Project)
 Gathered data for 100,000 water temperature observations around LIS during 2024-2025 to train and test forecast models. Used **R**.
 * [View Report](https://cc5412.github.io/STDM_Final-Project/CCarvajal_STDM_Coursework_NYwatertemps.pdf)
 * [View Code](https://github.com/cc5412/STDM_Final-Project/blob/main/STDM_Coursework_NYwatertemp.R)
