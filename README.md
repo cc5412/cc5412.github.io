@@ -7,7 +7,7 @@ Christian is an MSUP candidate at Columbia GSAPP. He holds a BA in Organismic &a
 
 ### [GIS (2025): Suitable Sites for City-owned Grocery Stores](https://github.com/cc5412/GIS_Final-Project)
 An analysis of food insecurity and grocery affordability in order to ground policy around city-owned grocery stores to the daily lives of the most vulnerable New Yorkers. Used **ArcGIS Pro** and **Python**.
-* [View Code](link-to-your-repo](https://github.com/cc5412/GIS_Final-Project)
+* [View Code](https://github.com/cc5412/GIS_Final-Project)
 * [View Final Feliverable](https://cc5412.github.io/GIS_Final-Project/CCarvajal_GIS-Final Project_City-Owned Grocery Stores.pdf)
 
 ### [London Transport Consultancy](link-to-your-repo)
