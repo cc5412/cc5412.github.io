@@ -17,5 +17,5 @@ An analysis of over 100,000 water temperature observations around LIS during 202
 
 ### [Urban Analytics (2025), DOCUMENTING ICE](https://github.com/cc5412/Urban-Data_Final-Project)
 Proof of concept mapping Bluesky posts related to ICE activity to show how videos shared on social media can be tied to spatial data and visualized.
-* [View Web-enabled Map](https://cc5412.github.io/Urban-Data_Final-Project/blob/main/Documenting-ICE.html)
+* [View Web-enabled Map](https://cc5412.github.io/Urban-Data_Final-Project/Documenting-ICE.html)
 * [View Map Code](https://github.com/cc5412/Urban-Data_Final-Project/blob/main/bluesky_ice_map.html)
